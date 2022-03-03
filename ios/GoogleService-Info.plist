@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>724332868407-fl03hsm74uoaq3d6qp186d65tem5l1mr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.724332868407-fl03hsm74uoaq3d6qp186d65tem5l1mr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAiyEJgcy85D8q92dgRNGHFL5IcbPC8jic</string>
+	<key>GCM_SENDER_ID</key>
+	<string>724332868407</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fledglink.app</string>
+	<key>PROJECT_ID</key>
+	<string>fledglink-app-f4726</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fledglink-app-f4726.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:724332868407:ios:e7fdc99329e0fdfa5a60b2</string>
+	<key>DATABASE_URL</key>
+	<string>https://fledglink-app-f4726.firebaseio.com</string>
+</dict>
+</plist>
